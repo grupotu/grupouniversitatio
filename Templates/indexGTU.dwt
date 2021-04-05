@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title></title>
+    <!-- TemplateEndEditable -->
+    <link rel="stylesheet" href="../style.css">
+	  <!--Celulares-->
+<link href="../phone.css" rel="stylesheet" type="text/css" media="only screen and (min-width:240px) and (max-width:420px)">
+
+<!--Tablet-->
+<link href="../tablet.css" rel="stylesheet" type="text/css" media="only screen and (min-width:421px) and (max-width:1080px)">
+	
+<!--PC-->
+<link href="../pc.css" rel="stylesheet" type="text/css" media="only screen and (min-width:1080px) and (max-width:5080px)">
+	  
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+  </head>
+  <body>
+
+  <div class="header">
+    <h5 class="logo">Grupo Tecnológico Universitario</h5>
+	 
+    <input type="checkbox" id="chk">
+    <label for="chk" class="show-menu-btn">
+      <i class="fas fa-ellipsis-h"></i>
+    </label>
+
+    <ul class="menu">
+	   
+      <a href="../inicio.html">Inicio</a>
+      <a href="../acerca.html">A cerca de</a>
+      <a href="../campus.html">Campus</a>
+      <a href="../contacto.html">Contacto</a>
+      <a href="../prox.html">Proximamente</a>
+      <label for="chk" class="hide-menu-btn">
+        <i class="fas fa-times"></i>
+      </label>
+    </ul>
+  </div>
+
+	  <section><!-- TemplateBeginEditable name="Editame" -->Editame<!-- TemplateEndEditable -->  
+	  
+	  
+	  
+	  </section>
+	  
+	  
+	  
+	  <aside>
+	  <img id="img"src="../img/facebook.png"></div>
+	  <img id="img1"src="../img/insta.png"></div>
+      <img id="img2"src="../img/youtube.png"></div>
+      <img id="img3"src="../img/wha.png"></div>
+	  
+	  
+	  </aside>
+
+	  
+	  
+	  <footer>
+		  
+		   <div id="titulo">Grupo Tecnológico Universitario</div>
+		  
+		  <img id="img4"src="../img/UTE-Universidad-LOGO.png">
+	  <ul class="menu2">
+	  <a href="../inicio.html">Inicio</a>
+      <a href="../acerca.html">A cerca de</a>
+      <a href="../campus.html">Campus</a>
+      <a href="../contacto.html">Contacto</a>
+      <a href="../prox.html">Proximamente</a>
+	  </ul>
+	  
+		 
+		 
+	  </footer>
+
+  </body>
+</html>
